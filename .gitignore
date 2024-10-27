@@ -8,3 +8,7 @@ wheels/
 
 # venv
 .venv
+
+private_key.pem
+public_key.pem
+pubkey.pem
